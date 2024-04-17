@@ -12,3 +12,4 @@
 /Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/EduGB/Lesson02/Less1/obj/Debug/net8.0/Less1.pdb
 /Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/EduGB/Lesson02/Less1/obj/Debug/net8.0/Less1.genruntimeconfig.cache
 /Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/EduGB/Lesson02/Less1/obj/Debug/net8.0/ref/Less1.dll
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/EduGB/Lesson02/Less1/obj/Debug/net8.0/Less1.sourcelink.json
