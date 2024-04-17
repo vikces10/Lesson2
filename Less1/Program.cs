@@ -1,4 +1,4 @@
-﻿using System.Diagnostics.CodeAnalysis;
+﻿
 
 Console.WriteLine("Hello, World!");
 
