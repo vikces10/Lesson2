@@ -32,3 +32,12 @@ double product3 = i1 * d1;
 Console.WriteLine(product1);
 Console.WriteLine(product2);
 Console.WriteLine(product3);
+
+// Домашнее задание
+int x1 = 5;
+int x2 = 6;
+int x3 = 1;
+int x4 = 2;
+int sumx = (x1 * x2)/(x3 + x4);
+Console.WriteLine(sumx);
+
