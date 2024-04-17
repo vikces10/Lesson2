@@ -1,0 +1,14 @@
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/EduGB/Lesson02/Less1/bin/Debug/net8.0/Less1
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/EduGB/Lesson02/Less1/bin/Debug/net8.0/Less1.deps.json
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/EduGB/Lesson02/Less1/bin/Debug/net8.0/Less1.runtimeconfig.json
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/EduGB/Lesson02/Less1/bin/Debug/net8.0/Less1.dll
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/EduGB/Lesson02/Less1/bin/Debug/net8.0/Less1.pdb
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/EduGB/Lesson02/Less1/obj/Debug/net8.0/Less1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/EduGB/Lesson02/Less1/obj/Debug/net8.0/Less1.AssemblyInfoInputs.cache
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/EduGB/Lesson02/Less1/obj/Debug/net8.0/Less1.AssemblyInfo.cs
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/EduGB/Lesson02/Less1/obj/Debug/net8.0/Less1.csproj.CoreCompileInputs.cache
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/EduGB/Lesson02/Less1/obj/Debug/net8.0/Less1.dll
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/EduGB/Lesson02/Less1/obj/Debug/net8.0/refint/Less1.dll
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/EduGB/Lesson02/Less1/obj/Debug/net8.0/Less1.pdb
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/EduGB/Lesson02/Less1/obj/Debug/net8.0/Less1.genruntimeconfig.cache
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/EduGB/Lesson02/Less1/obj/Debug/net8.0/ref/Less1.dll
